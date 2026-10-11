@@ -1,4 +1,4 @@
-# Python-Fundamentals-Assignments
+# Python-Fundamentals-Assignment 1
 Beginner Python assignments using Jupyter Notebook
 This repository contains Python practice assignments completed using Jupyter Notebook
 
